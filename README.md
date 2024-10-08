@@ -4,7 +4,7 @@ This script implements real-time object detection using YOLO models and your web
 
 ## Acknowledgments
 
-This code is an improvement based on the codebase from [Dipankar Medhi](https://dipankarmedh1.medium.com/real-time-object-detection-with-yolo-and-webcam-enhancing-your-computer-vision-skills-861b97c78993)
+This repository is an improvement based on the codebase from [Dipankar Medhi](https://dipankarmedh1.medium.com/real-time-object-detection-with-yolo-and-webcam-enhancing-your-computer-vision-skills-861b97c78993)
 
 ## Features
 * Real-time Object Detection: Process video frames on-the-fly using YOLO models.
