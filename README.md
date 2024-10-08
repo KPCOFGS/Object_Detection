@@ -33,14 +33,14 @@ pip install -r requirements.txt
 
 To run the script, use the following command:
 ```
-python yolo_webcam.py <model_path> --output <output_path>
+python main.py <model_path> --output <output_path>
 ```
 model_path: Path to your object detection model file (must end with .pt).
 --output: (Optional) Path to save the output video (default is output.avi, must end with .avi).
 
 ## Example Usage
 ```
-python yolo_webcam.py yolov10x.pt --output detected_objects.avi
+python main.py yolov10x.pt --output detected_objects.avi
 ```
 
 ## License
