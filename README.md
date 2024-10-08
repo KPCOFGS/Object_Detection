@@ -43,6 +43,7 @@ model_path: Path to your object detection model file (must end with .pt).
 ```
 python main.py yolov10x.pt --output detected_objects.avi
 ```
+To exit the script, use Ctrl + C in the terminal that runs the script
 
 ## License
 
