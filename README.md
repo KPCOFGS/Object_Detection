@@ -18,7 +18,7 @@ Special thanks to [Dipankar Medhi](https://dipankarmedh1.medium.com/real-time-ob
 
 ## Installation
 
-1. Clone the repository by the following command:
+1. Clone the repository with the following command:
 ```
 git clone https://github.com/KPCOFGS/Object_Detection.git
 cd Object_Detection
