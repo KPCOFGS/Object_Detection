@@ -1,13 +1,13 @@
 # Object_Detection
 
-This script implements real-time object detection using the YOLO (You Only Look Once) model and your webcam. It captures video frames, processes them through a trained YOLO model, and displays the detected objects with bounding boxes and confidence scores. The output video can be saved in AVI format for later review.
+This script implements real-time object detection using models like YOLO and your webcam. It captures video frames, processes them through a trained object detection model, and displays the detected objects with bounding boxes and confidence scores. The output video is saved in AVI format for later review.
 
 ## Acknowledgments
 
 Special thanks to [Dipankar Medhi](https://dipankarmedh1.medium.com/real-time-object-detection-with-yolo-and-webcam-enhancing-your-computer-vision-skills-861b97c78993) for the initial codebase and inspiration for this project.
 
 ## Features
-* Real-time Object Detection: Process video frames on-the-fly using YOLO.
+* Real-time Object Detection: Process video frames on-the-fly using models like YOLO.
 * Customizable Model and Output: Specify your object detection model file and output video path via command-line arguments.
 * User-friendly Interface: Displays detected objects in real-time on the video feed.
 
