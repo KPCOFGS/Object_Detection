@@ -20,12 +20,12 @@ Special thanks to [Dipankar Medhi](https://dipankarmedh1.medium.com/real-time-ob
 
 1. Clone the repository by the following command:
 ```
-git clone
+git clone https://github.com/KPCOFGS/Object_Detection.git
 cd Object_Detection
 ```
 2. Install the required packages:
 ```
-pip install 
+pip install -r requirements.txt
 ```
 3. Install an object detection model like [YOLOv10](https://docs.ultralytics.com/models/yolov10/#how-can-i-get-started-with-running-inference-using-yolov10)
 
