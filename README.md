@@ -36,6 +36,7 @@ To run the script, use the following command:
 python main.py <model_path> --output <output_path>
 ```
 model_path: Path to your object detection model file (must end with .pt).
+
 --output: (Optional) Path to save the output video (default is output.avi, must end with .avi).
 
 ## Example Usage
