@@ -27,7 +27,7 @@ cd Object_Detection
 ```
 pip install -r requirements.txt
 ```
-3. Install [YOLOv10](https://docs.ultralytics.com/models/yolov10/#how-can-i-get-started-with-running-inference-using-yolov10) model
+3. Install [YOLOv10](https://docs.ultralytics.com/models/yolov10/#comparisons) model
 
 ## Usage
 
